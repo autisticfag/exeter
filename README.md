@@ -18,7 +18,7 @@ Q: Why did you obfuscate your code?
 A: I just want to avoid people cloning the repo and claiming it's theirs. Obfuscating makes that a little harder.
 
 Q: My bot's crashing. Help!
-A: Well, if you're **sure** that you didn't fuck anything up, open an issue and I'll get back to you.
+A: Well, if you're certain that you didn't fuck anything up, open an issue and I'll get back to you.
 
 Q: can i hav tha sorce cod?????? plzzzzz???!!!!
 A: No.
