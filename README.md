@@ -20,6 +20,6 @@ A: I just want to avoid people cloning the repo and claiming it's theirs. Obfusc
 Q: My bot won't start and crashes as soon as I run it. Help!
 A: Well, if you're **sure** that you didn't fuck anything up, open an issue and I'll get back to you.
 
-Q: can i hav tha sorce cod??????/?//?/ plzzzzz??z/!/??!
+Q: can i hav tha sorce cod?????? plzzzzz???!!!!
 A: No.
 ```
