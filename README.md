@@ -15,7 +15,7 @@ Once you're done with all that, run EXETER.exe to launch the bot. If you did eve
 
 ```
 Q: Why did you obfuscate your code?
-A: I just want to avoid people cloning the repo and claiming it's theirs. Obfuscating makes that a little harder.
+A: I just want to avoid people cloning the repo and claiming it's theirs. Obfuscating makes that harder.
 
 Q: My bot's crashing. Help!
 A: Well, if you're certain that you didn't fuck anything up, open an issue and I'll get back to you.
