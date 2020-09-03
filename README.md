@@ -6,7 +6,7 @@ In order to use the bot, you need to install [node.js](https://nodejs.org/). Onc
 You can do this by running the handy Install.exe file. It'll install the required dependencies and close automatically.
 
 ## Step 2: Configing.
-Make your way to the data folder and open **cfg.json** in your preferred text editor. You need to replace the token in there with your own. [Here's a good tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI) on how to find your token.
+Make your way to the data folder and open **cfg.json** in your preferred text editor. You need to replace the token in there with your own. [Here's a good guide](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token) on how to find your token.
 
 ## Step 3: Profit.
 Once you're done with all that, run EXETER.exe to launch the bot. If you did everything correctly, the bot should show a splash screen and give you a warm welcome. Run -help to see a list of commands the bot is capable of.
