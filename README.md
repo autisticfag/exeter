@@ -23,3 +23,5 @@ A: Well, if you're **sure** that you didn't fuck anything up, open an issue and 
 Q: can i hav tha sorce cod?????? plzzzzz???!!!!
 A: No.
 ```
+
+[Join my discord!](https://discord.gg/TZkth75)
