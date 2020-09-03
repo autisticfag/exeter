@@ -1,0 +1,25 @@
+{
+  "name": "exeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzzuoa/exeter"
+  },
+  "author": "zuoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzuoa/exeter"
+  },
+  "homepage": "https://github.com/Kappador/satana#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "discord.js": "^11.6.4",
+    "lodash": "^4.17.19",
+    "nodejs": "0.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "superagent": "^6.0.0"
+  }
+}
