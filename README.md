@@ -6,10 +6,10 @@ In order to use the bot, you need to install [node.js](https://nodejs.org/). Onc
 You can do this by running the handy Install.exe file. Some users have reported a popup asking if the file installed correctly, you can safely close it if you do get it.
 
 ## Step 2: Configing.
-Make your way to the data folder and open **cfg.json** in your preferred text editor. You need to replace the token in there with your own. [Here you can find a good tutorial on how to find your token.](https://www.youtube.com/watch?v=YEgFvgg7ZPI).
+Make your way to the data folder and open **cfg.json** in your preferred text editor. You need to replace the token in there with your own. [Here's a good tutorial](https://www.youtube.com/watch?v=YEgFvgg7ZPI) on how to find your token.
 
 ## Step 3: Profit.
-Once you're done with all that, run Exeter.exe. If you did everything correctly, the bot should show a splash screen and give you a warm welcome. Run -help to see a list of commands this little puppy can do.
+Once you're done with all that, run Exeter.exe. If you did everything correctly, the bot should show a splash screen and give you a warm welcome. Run -help to see a list of commands the bot is capable of.
 
 # Q&A
 
