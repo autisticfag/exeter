@@ -24,4 +24,5 @@ Q: can i hav tha sorce cod?????? plzzzzz???!!!!
 A: No.
 ```
 
-<sup>[Discord](https://discord.gg/TZkth75)</sup> &nbsp <sup>[Twitter](https://twitter.com/zzzuoa)</sup> 
+<sup>[Discord](https://discord.gg/TZkth75)</sup>__
+<sup>[Twitter](https://twitter.com/zzzuoa)</sup>__ 
